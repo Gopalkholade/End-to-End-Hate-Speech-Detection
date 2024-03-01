@@ -53,7 +53,7 @@ Before running the code, ensure you have the following installed:
 
 ## Example
 
-![Streamlit App Screenshot](./resourses/sample.png)
+![Streamlit App Screenshot](./resources/sample.png)
 
 ---
 
