@@ -43,7 +43,7 @@ Before running the code, ensure you have the following installed:
 
 1. Install the required libraries:
    ```bash
-   pip install nltk pandas numpy scikit-learn streamlit
+   pip install -r requirements.txt
    ```
 
 2. Run the Streamlit app:
